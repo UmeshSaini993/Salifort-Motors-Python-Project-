@@ -22,7 +22,9 @@ The HR department of the Salifort Motors had taken initiatives to improve employ
 The average number of monthly hours is the most important feature to develop the predictive model. 
 
 4. This model helped predict whether an employee will leave the company or not and identify the most influential factors. These insights can help HR make decisions to improve employee retention.
-  
+
+https://github.com/UmeshSaini993/Salifort-Motors-Python-Project-/issues
+
 ## Recommendations to HR Team
      
 1. Cap the number of projects that employees can work on.
