@@ -23,7 +23,7 @@ The average number of monthly hours is the most important feature to develop the
 
 4. This model helped predict whether an employee will leave the company or not and identify the most influential factors. These insights can help HR make decisions to improve employee retention.
 
-[https://github.com/UmeshSaini993/Salifort-Motors-Python-Project-/issues](https://github.com/UmeshSaini993/Salifort-Motors-Python-Project-/blob/main/importance%20features.png)
+[[https://github.com/UmeshSaini993/Salifort-Motors-Python-Project-/issues](https://github.com/UmeshSaini993/Salifort-Motors-Python-Project-/blob/main/importance%20features.png)](https://github.com/UmeshSaini993/Salifort-Motors-Python-Project-/issues/3#issue-2489685330)
 
 ## Recommendations to HR Team
      
