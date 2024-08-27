@@ -1,13 +1,18 @@
 # Salifort Motors Machine Learning Project
+
 ## Project Descriotion
+
 The HR department of the Salifort Motors had taken initiatives to improve employee satisfaction levels at the company. The project aims to analyze the data collected by the company and provide data-driven suggestions. Further, a ML model was supposed to be built to predict whether an employee will leave the company or not based on different variables such as total number of hours worked, number of project completed, whether promoted or not, etc. The most important feature contributing towards prediction were required to be identified. 
 
 ## Key Insights on EDA
 
 1. Workload and long working hours were related to employees leaving the company.
-2. This indicates all employees working longer hours and with higher performance evaluations were leaving the company. 
-3. Employees who have not been promoted, worked a higher number of hours.
-4. Promotion played a part in employees' satisfaction level and hence may contribute to them leaving the company.
+   
+3. This indicates all employees working longer hours and with higher performance evaluations were leaving the company.
+   
+5. Employees who have not been promoted, worked a higher number of hours.
+   
+7. Promotion played a part in employees' satisfaction level and hence may contribute to them leaving the company.
 
 ## Machine Learning Algorithms
 
