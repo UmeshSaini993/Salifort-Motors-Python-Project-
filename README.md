@@ -23,6 +23,7 @@ The average number of monthly hours is the most important feature to develop the
 
 4. This model helped predict whether an employee will leave the company or not and identify the most influential factors. These insights can help HR make decisions to improve employee retention.
 
+(/box plot between average monthly hours worked and projects completed.png)
 
 ## Recommendations to HR Team
      
