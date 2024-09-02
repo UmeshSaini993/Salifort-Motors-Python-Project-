@@ -1,6 +1,6 @@
 # Salifort Motors Machine Learning Project
 
-## Project Descriotion
+## Project Description
 
 The HR department of the Salifort Motors had taken initiatives to improve employee satisfaction levels at the company. The project aims to analyze the data collected by the company and provide data-driven suggestions. Further, a ML model was supposed to be built to predict whether an employee will leave the company or not based on different variables such as total number of hours worked, number of project completed, whether promoted or not, etc. The most important feature contributing towards prediction were required to be identified. 
 
@@ -23,7 +23,7 @@ The average number of monthly hours is the most important feature to develop the
 
 4. This model helped predict whether an employee will leave the company or not and identify the most influential factors. These insights can help HR make decisions to improve employee retention.
 
-(/box plot between average monthly hours worked and projects completed.png)
+![Histograms](https://github.com/user-attachments/assets/5b9c74a5-4b57-4108-bbbf-31a8cfe25f28)
 
 ## Recommendations to HR Team
      
